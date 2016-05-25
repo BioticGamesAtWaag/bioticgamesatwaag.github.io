@@ -5,7 +5,7 @@ title: Biotic Games Building Instructions
 
 Step 1 - Disassemble webcam
 
-[![Step 1](/images/Step1.png)](https://youtu.be/YdiEyC1to-s "Biotic Games Step 1 - Disassemble webcam")
+[![Biotic Games Step 1 - Disassemble webcam](/images/Step1.png)](https://youtu.be/YdiEyC1to-s "Biotic Games Step 1 - Disassemble webcam")
 
 
 
