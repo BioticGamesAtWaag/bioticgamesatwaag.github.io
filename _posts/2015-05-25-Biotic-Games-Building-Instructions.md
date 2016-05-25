@@ -53,24 +53,24 @@ Step 12 - Put stack of spaceships on bottom part
 
 Step 13 - Screw on three nuts to hold top LED holder
 
-[![Biotic Games Step 13 - Screw on three nuts to hold top LED holder](/images/Step3.png)](https://youtu.be/nkZxksTMyL0?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 13 - Screw on three nuts to hold top LED holder")
+[![Biotic Games Step 13 - Screw on three nuts to hold top LED holder](/images/Step13.png)](https://youtu.be/nkZxksTMyL0?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 13 - Screw on three nuts to hold top LED holder")
 
 Step 14 - Plug in 5 MM LED on top
 
-[![Biotic Games Step 3 - Put screws into base plate, insert webcam holder](/images/Step3.png)](https://youtu.be/W1acJJews3o?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 3 - Put screws into base plate, insert webcam holder")
+[![Biotic Games Step 14 - Plug in 5 MM LED on top ](/images/Step14.png)](https://youtu.be/W1acJJews3o?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 14 - Plug in 5 MM LED on top")
 
 Step 15 - Microscope slide: peel off cover foil
 
-[![Biotic Games Step 3 - Put screws into base plate, insert webcam holder](/images/Step3.png)](https://youtu.be/W1acJJews3o?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 3 - Put screws into base plate, insert webcam holder")
+[![Biotic Games Step Step 15 - Microscope slide: peel off cover foil](/images/Step15.png)](https://youtu.be/mQkYZorjZSo?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 15 - Microscope slide: peel off cover foil")
 
 Step 16 - Microscope slide: peel off small cover foil
 
-[![Biotic Games Step 3 - Put screws into base plate, insert webcam holder](/images/Step3.png)](https://youtu.be/W1acJJews3o?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 3 - Put screws into base plate, insert webcam holder")
+[![Biotic Games Step 16 - Microscope slide: peel off small cover foil](/images/Step16.png)](https://youtu.be/B0FrFuvtdaE?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 16 - Microscope slide: peel off small cover foil")
 
 Step 17 - Microscope slide: peel off double-sided tape, stick parts together
 
-[![Biotic Games Step 3 - Put screws into base plate, insert webcam holder](/images/Step3.png)](https://youtu.be/W1acJJews3o?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 3 - Put screws into base plate, insert webcam holder")
+[![Biotic Games Step 17 - Microscope slide: peel off double-sided tape, stick parts together](/images/Step17.png)](https://youtu.be/U9k3Rz5e0Go?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Step 17 - Microscope slide: peel off double-sided tape, stick parts together")
 
-Step 18 - pipette Euglena
+Step 18 - Microscope slide: pipette Euglena
 
-[![Biotic Games Step 3 - Put screws into base plate, insert webcam holder](/images/Step3.png)](https://youtu.be/W1acJJews3o?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 3 - Put screws into base plate, insert webcam holder")
+[![Biotic Games Step 18 - Microscope slide: pipette Euglena](/images/Step18.png)](https://youtu.be/GO2IAntEGbk?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Step 18 - Microscope slide: pipette Euglena")
