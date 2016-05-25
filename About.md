@@ -14,6 +14,8 @@ Now enter the 21st century, enter the century of biotechnology. It is time to em
 
 Participants will use technology to interact with living organisms in a playful manner. They will turn the joystick and press the buttons to change the swimming direction of the protist protagonists, and track the position of the organisms digitally to interact with them as players in a computer game. During the workshop, they will build a biological gaming device and prototype a game. Connecting computing and engineering with biology, we hope a large public can be involved in biotechnology and make a positive contribution to formal and informal education.
 
+Still, you might still ask yourself, why “Euglena Spaceships”? Not only [have Euglena gracilis cells been sent into orbit to test the effect of microgravity](http://www.ncbi.nlm.nih.gov/pubmed/23926886), this is also our way to say thank you to all the hackers out there who brought us computer games in the first place. By hacking code on the PDP-1, Steve Russell and his hacker friends from the Tech Model Railroad Club created one of the first computer games, "Spacewar!". From this point on, computer games did not only grow to be the centre of a major industry, they also became a new world of joy, creativity and a motivation to interact with technology. To embrace this, we decided to design our setup in the shape of a spaceship and we are working hard on a biotic remake of “Spacewar!”. All are encouraged to create space related games. 
+
 This workshop is intended for (bio)scientists, designers, (game) developers, engineers, artists and media technologists. Please bring your computer and phone. Background knowledge in biological gaming is not required, but highly appreciated.
 
 ### Timetable
