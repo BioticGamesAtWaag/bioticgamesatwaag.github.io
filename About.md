@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Welcome to the wonderful world of *Biotic Games*!
-Sign up for the Campus Party workshop at [http://campuse.ro/events/campus-party-europe-2016/workshop/Biotic-Games/](http://campuse.ro/events/campus-party-europe-2016/workshop/Biotic-Games/)
+### Sign up for the workshop
+[http://campuse.ro/events/campus-party-europe-2016/workshop/Biotic-Games/](http://campuse.ro/events/campus-party-europe-2016/workshop/Biotic-Games/)
 
 ### Euglena Spaceships
 When science meets games, it makes everyone´s eyes sparkle! Computer games are great fun and we all have our favourite games we played when we were kids, or even continue to play as grown ups. But computer games have been more than just fun. Games have increased interest in computing, and playful tinkering projects have been a valuable source of innovation, and have changed the way we interact with technology.
@@ -28,6 +28,6 @@ This workshop is intended for (bio)scientists, designers, (game) developers, eng
 * 22:00-23:00 presentation of results at **Science Stage**
 
 ### People
-Speakers: Ingmar Riedel-Kruse & Pieter van Boheemen
-Workshop organizers: Roland van Dierendonck & Christian Schulz
-Crew: Federico Muffato, Frido Emans & Xiamyra Daal 
+* Speakers: Ingmar Riedel-Kruse & Pieter van Boheemen
+* Workshop organizers: Roland van Dierendonck & Christian Schulz
+* Crew: Federico Muffato, Frido Emans & Xiamyra Daal 
