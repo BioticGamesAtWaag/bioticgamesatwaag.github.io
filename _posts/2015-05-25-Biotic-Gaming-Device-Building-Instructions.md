@@ -2,6 +2,7 @@
 layout: post
 title: Biotic Gaming Device Building Instructions
 ---
+A step-for-step video instruction for building the biotic gaming device (a compilation video with all steps can be found at the bottom)
 
 Step 1 - Disassemble webcam
 
@@ -74,3 +75,8 @@ Step 17 - Microscope slide: peel off double-sided tape, stick parts together
 Step 18 - Microscope slide: pipette Euglena
 
 [![Biotic Games Step 18 - Microscope slide: pipette Euglena](/images/Step18.png)](https://youtu.be/GO2IAntEGbk?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Step 18 - Microscope slide: pipette Euglena")
+
+All Steps
+
+[![Biotic Games All Steps](/images/Step1.png)](https://www.youtube.com/watch?v=9pQG9h8-nvQ "Biotic Games All Steps")
+
