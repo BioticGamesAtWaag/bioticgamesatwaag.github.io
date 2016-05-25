@@ -16,10 +16,10 @@ contribution to formal and informal education.
 This workshop is intended for (bio)scientists, designers, (game) developers, engineers, artists and media technologists. Please bring your computer and phone. Background knowledge in biological gaming is not required, but highly appreciated.
 
 ### Timetable
-* 13:00 Ingmar Riedel-Kruse presents at *Main Stage*
-* 14:00-15:00 Intro of the workshop on the *Science Stage* by Ingmar and Pieter.
+* 13:00 Ingmar Riedel-Kruse presents at **Main Stage**
+* 14:00-15:00 Intro of the workshop on the **Science Stage** by Ingmar and Pieter.
 * 16:00-19:00 Workshop room is at your disposal
 * 19:00-19:30 Get some food
 * 19:00-21:00 Reservation of maker space
 * 19:00-22:00 Continue in open work space.
-* 22:00-23:00 presentation of results at *Science Stage*
+* 22:00-23:00 presentation of results at **Science Stage**
