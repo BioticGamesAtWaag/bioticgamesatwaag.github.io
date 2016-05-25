@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Euglena spaceships](/images/DCS_1020.JPG)
+![Euglena spaceships](/images/DSC_1020.JPG)
 
 ### Euglena Spaceships
 When science meets games, it makes everyone´s eyes sparkle! Computer games are great fun and we all have our favourite games we played when we were kids, or even continue to play as grown ups. But computer games have been more than just fun. Games have increased interest in computing, and playful tinkering projects have been a valuable source of innovation, and have changed the way we interact with technology.
