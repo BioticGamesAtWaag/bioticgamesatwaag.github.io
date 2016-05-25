@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workshop Info
-permalink: /workshop-info/
+title: About
+permalink: /about/
 ---
 
 Welcome to the wonderful world of *Biotic Games*!
