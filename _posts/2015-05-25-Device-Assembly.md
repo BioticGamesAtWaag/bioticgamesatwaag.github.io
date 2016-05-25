@@ -3,6 +3,7 @@ layout: post
 title: Device Assembly
 ---
 A step-for-step video instruction for building the biotic gaming device (a compilation video with all steps can be found at the bottom)
+*a little change*: the 50 mm bolts used at step 8 to assemble the stack of spaceships are now replaced by 95 mm wires, you need to screw on extra nuts at the bottom. 
 
 Step 1 - Disassemble webcam
 
