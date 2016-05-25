@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Workshop Info
+permalink: /workshop-info/
 ---
 
 ### Euglena Spaceships
