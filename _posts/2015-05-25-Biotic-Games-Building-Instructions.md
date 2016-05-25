@@ -37,23 +37,23 @@ Step 8 - Assemble stack of three spaceships
 
 Step 9 - Insert four 3MM LEDs under an angle
 
-[![Biotic Games Step 3 - Put screws into base plate, insert webcam holder](/images/Step3.png)](https://youtu.be/W1acJJews3o?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 3 - Put screws into base plate, insert webcam holder")
+[![Biotic Games Step 9 - Insert four 3MM LEDs under an angle](/images/Step9.png)](https://youtu.be/kxac29dFFvA?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 9 - Insert four 3MM LEDs under an angle")
 
 Step 10 - Put on the top spaceship 
 
-[![Biotic Games Step 3 - Put screws into base plate, insert webcam holder](/images/Step3.png)](https://youtu.be/W1acJJews3o?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 3 - Put screws into base plate, insert webcam holder")
+[![Biotic Games Step 10 - Put on the top spaceship ](/images/Step10.png)](hhttps://youtu.be/YZPtSEZ9zQk?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 10 - Put on the top spaceship ")
 
 Step 11 - Tighten the spaceship stack with three nuts 
 
-[![Biotic Games Step 3 - Put screws into base plate, insert webcam holder](/images/Step3.png)](https://youtu.be/W1acJJews3o?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 3 - Put screws into base plate, insert webcam holder")
+[![Biotic Games Step 11 - Tighten the spaceship stack with three nuts](/images/Step11.png)](https://youtu.be/8xZiyT_az5M?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 11 - Tighten the spaceship stack with three nuts")
 
 Step 12 - Put stack of spaceships on bottom part 
 
-[![Biotic Games Step 3 - Put screws into base plate, insert webcam holder](/images/Step3.png)](https://youtu.be/W1acJJews3o?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 3 - Put screws into base plate, insert webcam holder")
+[![Biotic Games Step 12 - Put stack of spaceships on bottom part ](/images/Step12.png)](https://youtu.be/FGjdmEsF_dI?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 12 - Put stack of spaceships on bottom part")
 
 Step 13 - Screw on three nuts to hold top LED holder
 
-[![Biotic Games Step 3 - Put screws into base plate, insert webcam holder](/images/Step3.png)](https://youtu.be/W1acJJews3o?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 3 - Put screws into base plate, insert webcam holder")
+[![Biotic Games Step 13 - Screw on three nuts to hold top LED holder](/images/Step3.png)](https://youtu.be/nkZxksTMyL0?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 13 - Screw on three nuts to hold top LED holder")
 
 Step 14 - Plug in 5 MM LED on top
 
