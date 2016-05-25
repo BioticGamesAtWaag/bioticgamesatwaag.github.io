@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biotic Gaming Device Building Instructions
+title: Device Assembly
 ---
 A step-for-step video instruction for building the biotic gaming device (a compilation video with all steps can be found at the bottom)
 
