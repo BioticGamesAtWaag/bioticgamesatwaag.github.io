@@ -7,10 +7,14 @@ Step 1 - Disassemble webcam
 
 [![Biotic Games Step 1 - Disassemble webcam](/images/Step1.png)](https://youtu.be/YdiEyC1to-s "Biotic Games Step 1 - Disassemble webcam")
 
-
-
 Step 2 - Reverse the lens
+
+[![Biotic Games Step 2 - Reverse the lens](/images/Step2.png)](https://youtu.be/sHe5tMD44DM?list=PL3Y1XW6WP2NWtCCkD_twcXjrsbbqDFbQu "Biotic Games Step 2 - Reverse the lens")
+
 Step 3 - Put screws into base plate, insert webcam holder
+
+[![Biotic Games Step 3 - Put screws into base plate, insert webcam holder](/images/Step3.png)](https://youtu.be/W1acJJews3o "Biotic Games Step 3 - Put screws into base plate, insert webcam holder")
+
 Step 4 - Attach double-sided tape for webcam
 Step 5 - Insert webcam
 Step 6 - Sandwich webcam between plates and tighten with nuts
