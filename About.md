@@ -26,3 +26,17 @@ This workshop is intended for (bio)scientists, designers, (game) developers, eng
 * 19:00-21:00 Reservation of maker space
 * 19:00-22:00 Continue in open work space.
 * 22:00-23:00 presentation of results at **Science Stage**
+
+### People
+Speakers
+* Ingmar Riedel-Kruse 
+* Pieter van Boheemen
+
+Workshop organizers
+* Roland van Dierendonck
+* Christian Schulz
+
+Workshop mentors
+* Federico Muffato
+* Frido Emans
+* Xiamyra Daal 
