@@ -16,7 +16,7 @@ Still, you might still ask yourself, why “Euglena Spaceships”? Not only [hav
 This workshop is intended for (bio)scientists, designers, (game) developers, engineers, artists and media technologists. Please bring your computer and phone. Background knowledge in biological gaming is not required, but highly appreciated.
 
 ### Timetable
-* 13:00 Ingmar Riedel-Kruse presents at **Main Stage**
+* 13:00-14:00 Ingmar Riedel-Kruse presents at **Main Stage**
 * 14:00-15:00 Intro of the workshop on the **Science Stage** by Ingmar and Pieter.
 * 16:00-19:00 Workshop room is at your disposal
 * 19:00-19:30 Get some food
