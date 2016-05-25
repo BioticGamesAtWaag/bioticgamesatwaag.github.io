@@ -28,15 +28,6 @@ This workshop is intended for (bio)scientists, designers, (game) developers, eng
 * 22:00-23:00 presentation of results at **Science Stage**
 
 ### People
-Speakers
-* Ingmar Riedel-Kruse 
-* Pieter van Boheemen
-
-Workshop organizers
-* Roland van Dierendonck
-* Christian Schulz
-
-Workshop mentors
-* Federico Muffato
-* Frido Emans
-* Xiamyra Daal 
+Speakers: Ingmar Riedel-Kruse & Pieter van Boheemen
+Workshop organizers: Roland van Dierendonck & Christian Schulz
+Crew: Federico Muffato, Frido Emans & Xiamyra Daal 
