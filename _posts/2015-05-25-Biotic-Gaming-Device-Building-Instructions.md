@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biotic Games Building Instructions
+title: Biotic Gaming Device Building Instructions
 ---
 
 Step 1 - Disassemble webcam
