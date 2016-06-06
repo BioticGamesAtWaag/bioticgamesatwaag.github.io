@@ -30,5 +30,5 @@ This workshop is intended for (bio)scientists, designers, (game) developers, eng
 * Workshop organizers: Roland van Dierendonck & Christian Schulz
 * Crew: Federico Muffato, Frido Emans & Xiamyra Daal 
 
-### Sign up for the workshop
-[http://campuse.ro/events/campus-party-europe-2016/workshop/Biotic-Games/](http://campuse.ro/events/campus-party-europe-2016/workshop/Biotic-Games/)
+### License
+The content of this site is available under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)(CC BY-NC-SA 4.0). This means that we reserve the right to use the material commercially, but you may use it in a non-commercial setting if you provide attribution. Contact us for commercial usage. Feel free to hack the designs and games and share updated files =). 
