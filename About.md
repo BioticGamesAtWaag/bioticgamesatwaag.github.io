@@ -31,4 +31,4 @@ This workshop is intended for (bio)scientists, designers, (game) developers, eng
 * Crew: Federico Muffato, Frido Emans & Xiamyra Daal 
 
 ### License
-The content of this site is available under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)(CC BY-NC-SA 4.0). This means that we reserve the right to use the material commercially, but you may use it in a non-commercial setting if you provide attribution. Contact us for commercial usage. Feel free to hack the designs and games and share updated files =). 
+The content of this site is available under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0). This means that you may use it in a non-commercial setting if you provide attribution. Contact us for commercial usage. Feel free to hack the designs and games and share updated files =). 
